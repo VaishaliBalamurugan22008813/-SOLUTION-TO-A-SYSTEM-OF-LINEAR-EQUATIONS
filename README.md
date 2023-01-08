@@ -39,7 +39,7 @@ print(sol)
 
 ## OUTPUT :
 
-![image](https://user-images.githubusercontent.com/118054670/211183096-d3e96c89-114a-49ce-ab4e-edc2695a8322.png)
+![Screenshot_20230108_113851](https://user-images.githubusercontent.com/118054670/211192161-4cf6434c-9ebb-4bc4-a0d5-1d5f90da578b.png)
 
 ## RESULT : 
 
